@@ -1,0 +1,8 @@
+{
+  "name": "MPI Sistem Pernafasan Manusia",
+  "description": "MPI Sistem Pernafasan Manusia - Media Pembelajaran Interaktif IPA Biologi oleh Bapak Asriza Rinandar, S.Pd (UPT SPF SD Inpres 105285 Tandam Hilir I)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
